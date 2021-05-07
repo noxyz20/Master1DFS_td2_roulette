@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="franckColonna_roulette" />
+        <module name="Master1DFS_td2_roulette" />
       </profile>
     </annotationProcessing>
   </component>
